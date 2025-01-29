@@ -21,3 +21,26 @@
 - Análise de Vendas: "Quais foram os produtos mais vendidos por região no último trimestre?"
 - Identificação de Tendências: "Há padrões sazonais que influenciam as vendas de consoles?"
 - Eficiência Logística: "Quais rotas de transporte apresentam maior tempo de entrega?"
+
+# Documentação: Calculadora Simples em Python
+
+# Introdução
+Esta documentação descreve o funcionamento de uma calculadora simples desenvolvida em Python. O código permite a realização de operações básicas, como adição, subtração, multiplicação e divisão.
+
+# Estrutura do Código
+O código é composto por uma função principal que exibe um menu para o usuário e executa as operações conforme a escolha. As operações matemáticas são implementadas em funções separadas para melhor organização.
+
+# Funcionamento
+1 - O usuário seleciona a operação desejada.
+2 - O programa solicita dois números como entrada.
+3 - A operação correspondente é realizada e o resultado é exibido.
+4 - O usuário pode continuar utilizando a calculadora ou sair.
+
+# Requisitos
+- Python 3.x instalado
+- Nenhuma biblioteca externa é necessária
+
+# Possíveis Melhorias
+- Implementação de operações avançadas, como potência e raiz quadrada.
+- Interface gráfica para facilitar a interação.
+- Suporte a mais formatos de entrada, como frações e números complexos.
